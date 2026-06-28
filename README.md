@@ -50,4 +50,4 @@ Food-Memory-Match/
 - Mobile optimization
 - More card themes
   
-3. <img width="917" height="745" alt="Screenshot 2026-06-28 135657" src="https://github.com/user-attachments/assets/9045fc8a-8536-4d2d-a115-8cdc63076cb7" />
+<img width="917" height="745" alt="Screenshot 2026-06-28 135657" src="https://github.com/user-attachments/assets/9045fc8a-8536-4d2d-a115-8cdc63076cb7" />
