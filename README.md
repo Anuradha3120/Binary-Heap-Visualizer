@@ -51,4 +51,3 @@ Food-Memory-Match/
 - More card themes
   
 3. <img width="917" height="745" alt="Screenshot 2026-06-28 135657" src="https://github.com/user-attachments/assets/9045fc8a-8536-4d2d-a115-8cdc63076cb7" />
-<img width="845" height="900" alt="Screenshot 2026-06-28 135602" src="https://github.com/user-attachments/assets/73041df3-62fb-4f99-b32c-c81c629c268a" />
